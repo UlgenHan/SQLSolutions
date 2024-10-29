@@ -1,4 +1,4 @@
-### 📂 Problem Title: Revising the Selected Query 2
+### 📂 Problem Title: The PADS
 
 **Platform**: HackerRank
 
